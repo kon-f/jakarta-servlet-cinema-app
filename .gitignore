@@ -1,0 +1,29 @@
+### Ignore compiled files
+*.class
+*.war
+*.jar
+
+### Ignore IDE settings
+# Eclipse
+.project
+.classpath
+.settings/
+# IntelliJ
+.idea/
+*.iml
+out/
+# VS Code
+.vscode/
+
+### OS files
+.DS_Store
+Thumbs.db
+
+### Tomcat / build outputs
+target/
+build/
+logs/
+
+### Local DB config
+DBConnection.java
+*.env
