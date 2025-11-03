@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Jakarta Servlet Cinema App banner">
+</p>
+
 # 🎬 Cinema Management Web Application
 
 ![Java](https://img.shields.io/badge/Java-EE-orange)
