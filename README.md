@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 A web-based Java EE application for managing the operations of a cinema — including movies, screenings, bookings, and user access.  
-Developed as part of a university course project on *Web and Internet Programming* at the Department of Informatics, University of Piraeus.
+Developed as part of a university course project on *Web and Internet Programming* at the Department of Informatics.
 
 ---
 
@@ -20,7 +20,7 @@ jakarta-servlet-cinema-app/
 │   └── com/...
 ├── database/
 │   └── cinema_schema.sql
-├── images/              # (screenshots to be added)
+├── images/              
 ├── .gitignore
 ├── README.md
 └── DBConnection.example.java
@@ -133,7 +133,6 @@ PROVOLES ───────< RESERVATIONS
 |------|-----------|------------|
 | *(Image coming soon)* | *(Image coming soon)* | *(Image coming soon)* |
 
-_Add your screenshots later in `images/` folder_
 
 ---
 
@@ -159,15 +158,14 @@ _Add your screenshots later in `images/` folder_
 
 ## 🏫 Academic Context
 
-Developed as part of the **"Web and Internet Programming"** course  
-University of Piraeus — Department of Informatics
+Developed as part of the University course: **"Web and Internet Programming"** in Department of Informatics
 
 ---
 
 ## 📄 License
 
-Educational & portfolio use permitted.
+MIT License
 
 ---
 
-👤 *See GitHub profile for author information*
+👤 kon-f
