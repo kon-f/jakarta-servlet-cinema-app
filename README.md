@@ -7,8 +7,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-A web-based Java EE application for managing the operations of a cinema — including movies, screenings, bookings, and user access.  
-Developed as part of a university course project on *Web and Internet Programming* at the Department of Informatics.
+A web-based Java EE application for managing the operations of a cinema — including movies, screenings, bookings, and user access. Using Jakarta Servlets, implementing routing, request handling, form submissions, session management, and basic MVC. 
+Developed as part of a university course project.
 
 ---
 
